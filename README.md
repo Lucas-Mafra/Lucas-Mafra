@@ -22,4 +22,4 @@
 ### 🚀 Tecnologias & Ferramentas
 
 ```java
-Java | Spring Boot | JPA | Hibernate | Maven | Git | Docker | PostgreSQL | MySQL | JUnit | Swagger
+Java | Spring Boot | JPA | Hibernate | Maven | Git | Docker | Kubernetes | PostgreSQL | MySQL | JUnit | Swagger
