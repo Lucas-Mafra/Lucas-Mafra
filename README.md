@@ -19,8 +19,7 @@
 
 ---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Mafra&show_icons=true&theme=tokyonight" alt="Estatísticas GitHub" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Mafra&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" /> </p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Mafra&show_icons=true&theme=tokyonight" alt="Estatísticas GitHub" /> 
 ---
 
 ### 🚀 Tecnologias & Ferramentas
