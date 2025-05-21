@@ -1,23 +1,25 @@
-# Olá! Eu sou o Lucas 👋
+<h1 align="center">Olá! Me chamo Lucas 👋 Eu sou um Desenvolvedor Back-end Java</h1>
 
-- 💻 Desenvolvedor Full Stack
-- 🌱 Trabalho com Java, SpringBoot e Angular
-- 📫 Contato: lucas.lima.nave@gmail.com
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Mafra&show_icons=true&theme=radical)
+---
 
+### 🧑‍💻 Sobre mim
 
-<!--
-**Lucas-Mafra/Lucas-Mafra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔧 Especializado em desenvolvimento back-end com **Java + Spring Boot**
+- 🛠️ Experiência com **APIs REST**, **JPA/Hibernate**, **segurança com JWT**, e **testes com JUnit**
+- 🗃️ Banco de dados: PostgreSQL, MySQL e MongoDB
+- 📦 Ferramentas: Maven, Docker, Kubernetes, Git
+- 🌱 Atualmente aprendendo mais sobre arquitetura de microsserviços
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias & Ferramentas
+
+```java
+Java | Spring Boot | JPA | Hibernate | Maven | Git | Docker | PostgreSQL | MySQL | JUnit | Swagger
