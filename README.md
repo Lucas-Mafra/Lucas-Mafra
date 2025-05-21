@@ -19,9 +19,12 @@
 
 ---
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Mafra&show_icons=true&theme=tokyonight" alt="Estatísticas GitHub" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Mafra&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" /> </p>
+
+---
+
 ### 🚀 Tecnologias & Ferramentas
 
 ```java
 Java | Spring Boot | JPA | Hibernate | Maven | Git | Docker | Kubernetes | PostgreSQL | MySQL | JUnit | Swagger
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Mafra&show_icons=true&theme=tokyonight" alt="Estatísticas GitHub" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Mafra&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" /> </p>
