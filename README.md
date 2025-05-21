@@ -1,4 +1,4 @@
-# Olá! Eu sou o João 👋
+# Olá! Eu sou o Lucas 👋
 
 - 💻 Desenvolvedor Full Stack
 - 🌱 Trabalho com Java, SpringBoot e Angular
