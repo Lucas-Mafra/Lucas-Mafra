@@ -1,4 +1,11 @@
-## Hi there 👋
+# Olá! Eu sou o João 👋
+
+- 💻 Desenvolvedor Full Stack
+- 🌱 Trabalho com Java, SpringBoot e Angular
+- 📫 Contato: lucas.lima.nave@gmail.com
+
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Mafra&show_icons=true&theme=radical)
+
 
 <!--
 **Lucas-Mafra/Lucas-Mafra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
