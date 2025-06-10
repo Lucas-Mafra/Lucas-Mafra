@@ -16,12 +16,6 @@
 - 📦 Ferramentas: Maven, Docker, Kubernetes, Git
 - 🌱 Atualmente aprendendo mais sobre arquitetura de microsserviços
 
----
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Mafra&show_icons=true&theme=tokyonight" alt="Estatísticas GitHub"/>
-
----
-
 ### 🚀 Tecnologias & Ferramentas
 
 ```java
