@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou Lucas Mafra (Ele/Dele)</h1>
+<h1 align="center">Olá! 👋 Eu sou Lucas Mafra</h1>
 <h3 align="center">Desenvolvedor Full-Stack com foco em Java/Spring Boot e Angular</h3>
 
 <p align="center">
