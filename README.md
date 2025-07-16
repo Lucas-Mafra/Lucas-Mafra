@@ -14,9 +14,6 @@
 <summary>
 <h2>🧑‍💻 Sobre Mim</h2>
 </summary>
-<p>
-Sou um desenvolvedor full-stack apaixonado por criar soluções robustas e eficientes. Com experiência sólida em diversas tecnologias, busco constantemente aprimorar minhas habilidades e explorar novas ferramentas para entregar produtos de alta qualidade.
-</p>
 <ul>
 <li>🔧 Especializado em desenvolvimento backend com <strong>Java</strong> e <strong>Spring Boot</strong>, e frontend com <strong>Angular</strong>.</li>
 <li>🛠️ Experiência prática com a construção de <strong>APIs RESTful</strong>, gerenciamento de persistência com <strong>JPA/Hibernate</strong>, implementação de segurança com <strong>JWT</strong>, e garantia de qualidade através de <strong>testes unitários com JUnit</strong>.</li>
