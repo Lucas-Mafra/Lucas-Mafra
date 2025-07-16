@@ -1,5 +1,5 @@
-<h1 align="center">Olá! 👋 Eu sou Lucas de Lima Mafra</h1>
-<h3 align="center">Desenvolvedor Full-Stack | Entusiasta de Tecnologia | Aprendiz Contínuo</h3>
+<h1 align="center">Olá! 👋 Eu sou [Seu Nome/Pronome]</h1>
+<h3 align="center">Desenvolvedor Full-Stack | Apaixonado por criar e inovar</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -10,25 +10,21 @@
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 </p>
 
-<details>
-<summary>
 <h2>🧑‍💻 Sobre Mim</h2>
-</summary>
+<p>
+Desenvolvedor full-stack com foco em soluções robustas e eficientes.
+</p>
 <ul>
-<li>🔧 Especializado em desenvolvimento backend com <strong>Java</strong> e <strong>Spring Boot</strong>, e frontend com <strong>Angular</strong>.</li>
-<li>🛠️ Experiência prática com a construção de <strong>APIs RESTful</strong>, gerenciamento de persistência com <strong>JPA/Hibernate</strong>, implementação de segurança com <strong>JWT</strong>, e garantia de qualidade através de <strong>testes unitários com JUnit</strong>.</li>
-<li>🗃️ Proficiência em bancos de dados relacionais como <strong>PostgreSQL</strong> e <strong>MySQL</strong>, e não-relacionais como <strong>MongoDB</strong>.</li>
-<li>📦 Familiaridade com ferramentas de orquestração e conteinerização como <strong>Docker</strong> e <strong>Kubernetes</strong>, e controle de versão com <strong>Git</strong>.</li>
-<li>🌱 Atualmente aprofundando meus conhecimentos em <strong>arquitetura de microsserviços</strong> para construir sistemas mais escaláveis e resilientes.</li>
+<li>🔧 Especializado em Java (Spring Boot) para backend e Angular para frontend.</li>
+<li>🛠️ Experiência em APIs REST, JPA/Hibernate, segurança (JWT) e testes (JUnit).</li>
+<li>🗃️ Proficiência em PostgreSQL, MySQL e MongoDB.</li>
+<li>📦 Familiaridade com Docker, Kubernetes e Git.</li>
+<li>🌱 Atualmente explorando arquitetura de microsserviços.</li>
 </ul>
-</details>
 
-<details>
-<summary>
 <h2>🚀 Tecnologias & Ferramentas</h2>
-</summary>
 <p align="center">
-Aqui estão algumas das principais tecnologias e ferramentas com as quais trabalho:
+Algumas das tecnologias com as quais trabalho:
 </p>
 <table align="center">
 <tr>
@@ -98,14 +94,13 @@ Aqui estão algumas das principais tecnologias e ferramentas com as quais trabal
 </td>
 </tr>
 </table>
-</details>
 
 <details>
 <summary>
 <h2>📊 Estatísticas do GitHub</h2>
 </summary>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Lucas-Mafra&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Lucas-MafraE&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Mafra&theme=radical" alt="GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Mafra&layout=compact&theme=radical" alt="Top Languages" />
 </p>
@@ -116,11 +111,11 @@ Aqui estão algumas das principais tecnologias e ferramentas com as quais trabal
 <h2>🤝 Conecte-se Comigo</h2>
 </summary>
 <p align="center">
-<a href="https://linkedin.com/in/lucasmafra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:lucas.lima.nave@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://linkedin.com/in/SEU_LINKEDIN_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:SEU_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 <p align="center">
-<i>Não hesite em entrar em contato para colaborações ou apenas para trocar uma ideia!</i>
+<i>Vamos conversar!</i>
 </p>
 </details>
 
