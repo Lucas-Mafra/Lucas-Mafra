@@ -119,9 +119,8 @@ Aqui estão algumas das principais tecnologias e ferramentas com as quais trabal
 <h2>🤝 Conecte-se Comigo</h2>
 </summary>
 <p align="center">
-<a href="https://linkedin.com/in/SEU_LINKEDIN_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:SEU_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<!-- Adicione mais links se desejar, como Twitter, Portfolio, etc. -->
+<a href="https://linkedin.com/in/lucasmafra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:lucas.lima.nave@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 <p align="center">
 <i>Não hesite em entrar em contato para colaborações ou apenas para trocar uma ideia!</i>
