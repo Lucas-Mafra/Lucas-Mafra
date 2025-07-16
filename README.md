@@ -108,12 +108,9 @@ Aqui estão algumas das principais tecnologias e ferramentas com as quais trabal
 <h2>📊 Estatísticas do GitHub</h2>
 </summary>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radical" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-<i>Lembre-se de substituir <code>SEU_USERNAME</code> pelo seu nome de usuário do GitHub nas URLs acima!</i>
+<img src="https://github-readme-stats.vercel.app/api?username=Lucas-Mafra&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Mafra&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Mafra&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 </details>
 
