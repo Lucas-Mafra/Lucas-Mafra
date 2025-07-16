@@ -1,5 +1,5 @@
-<h1 align="center">Olá! 👋 Eu sou Lucas Mafra</h1>
-<h3 align="center">Desenvolvedor Full-Stack | Apaixonado por criar e inovar</h3>
+<h1 align="center">Olá! 👋 Eu sou Lucas Mafra (Ele/Dele)</h1>
+<h3 align="center">Desenvolvedor Full-Stack com foco em Java/Spring Boot e Angular</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -10,113 +10,73 @@
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
 </p>
 
+---
+
 <h2>🧑‍💻 Sobre Mim</h2>
 <p>
-Desenvolvedor full-stack com foco em soluções robustas e eficientes.
+Sou um desenvolvedor full-stack com ênfase em back-end Java (Spring Boot) e front-end com Angular. Tenho experiência com desenvolvimento de APIs RESTful, autenticação com JWT, testes automatizados com JUnit, e integração de bancos relacionais e NoSQL. Também tenho familiaridade com Docker, Kubernetes e arquitetura de microsserviços, sempre buscando criar soluções escaláveis e bem estruturadas.
 </p>
-<ul>
-<li>🔧 Especializado em Java (Spring Boot) para backend e Angular para frontend.</li>
-<li>🛠️ Experiência em APIs REST, JPA/Hibernate, segurança (JWT) e testes (JUnit).</li>
-<li>🗃️ Proficiência em PostgreSQL, MySQL e MongoDB.</li>
-<li>📦 Familiaridade com Docker, Kubernetes e Git.</li>
-<li>🌱 Atualmente explorando arquitetura de microsserviços.</li>
-</ul>
+
+---
 
 <h2>🚀 Tecnologias & Ferramentas</h2>
-<p align="center">
-Algumas das tecnologias com as quais trabalho:
-</p>
+<p align="center">Algumas das tecnologias com as quais trabalho:</p>
+
 <table align="center">
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>
-<strong>Java</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" /><br>
-<strong>Spring Boot</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" /><br>
-<strong>Angular</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br>
-<strong>Node.js</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" /><br>
-<strong>NestJS</strong>
-</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br><strong>Java</strong></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" /><br><strong>Spring Boot</strong></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" /><br><strong>Angular</strong></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br><strong>Node.js</strong></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" /><br><strong>NestJS</strong></td>
 </tr>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" /><br>
-<strong>PostgreSQL</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>
-<strong>MySQL</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>
-<strong>MongoDB</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>
-<strong>Docker</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /><br>
-<strong>Kubernetes</strong>
-</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" /><br><strong>PostgreSQL</strong></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br><strong>MySQL</strong></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br><strong>MongoDB</strong></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br><strong>Docker</strong></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /><br><strong>Kubernetes</strong></td>
 </tr>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>
-<strong>Git</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>
-<strong>GitHub</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" /><br>
-<strong>Maven</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>
-<strong>VS Code</strong>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br>
-<strong>Postman</strong>
-</td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br><strong>Git</strong></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br><strong>GitHub</strong></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" /><br><strong>Maven</strong></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br><strong>VS Code</strong></td>
+<td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" /><br><strong>Postman</strong></td>
 </tr>
 </table>
 
+---
+
+<h2>📚 Atualmente Aprendendo</h2>
+<p>
+Microsserviços, Clean Architecture, testes com Mockito e CI/CD com GitHub Actions.
+</p>
+
+---
+
 <details>
-<summary>
-<h2>📊 Estatísticas do GitHub</h2>
-</summary>
+<summary><h2>📊 Estatísticas do GitHub</h2></summary>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Lucas-MafraE&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Lucas-Mafra&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Mafra&theme=radical" alt="GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Mafra&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 </details>
 
+---
+
 <details>
-<summary>
-<h2>🤝 Conecte-se Comigo</h2>
-</summary>
+<summary><h2>🤝 Conecte-se Comigo</h2></summary>
 <p align="center">
-<a href="https://linkedin.com/in/SEU_LINKEDIN_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:SEU_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://linkedin.com/in/lucasmafra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:lucas.lima.nave@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 <p align="center">
 <i>Vamos conversar!</i>
 </p>
 </details>
 
-<p align="center">Feito com ❤️ e ☕</p>
+---
+
+<p align="center">Desenvolvido com dedicação, café e vontade de aprender ☕🚀</p>
