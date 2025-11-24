@@ -7,4 +7,4 @@ I'm a developer who enjoys building, learning, and exploring new ideas.
 - Clean code and best practices  
 
 **Currently**
-- Improving my skills and working on personal projects  
+- Studying development patterns and creating projects that help me in my daily work.
